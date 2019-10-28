@@ -13,7 +13,8 @@ Feel free to clone this repository to create your own AMA, and if you do let me 
 * Ensure your question hasn't already been answered.
 * Use a succinct title and description.
 * Bugs & feature requests should be opened on the relevant issue tracker.
-* Be civil and polite :)
+* Be civil and polite. :) (Or don't... I'm not your mommy.)
+* I'll provide a thoughtful response and mark your Issue as "Closed" when it has been responded to.
 
 ## Resources
 
