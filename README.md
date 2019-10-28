@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-Git repository created for the purpose of creating a forum to enable people to ask me questions using the "Issues" feature on Github. NOTE: Anything means *anything*, so personal questions, money, work, life, code, projects, politics, religion, whatever, are all fair game. 👍
+Git repository created for the purpose of enabling a forum for asking and responding to general questions on Github. NOTE: Anything means *anything*, so personal questions, money, work, life, code, projects, politics, religion, whatever, are all fair game. 👍
 
 To ask me a question, [click here](../../issues/new)!
 
