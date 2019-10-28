@@ -1,18 +1,19 @@
-# Ask me anything!
+# Ask Me Anything
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+Git repository created for the purpose of being able to ask me questions, which I will respond to.
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+To ask me a question, [click here](../../issues/new).
 
--
+To read all questions asked and my responses, [click here](../../issues).
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Be civil and polite :)
+* Anything means *anything*, so things like personal questions, money, work, life, code, projects, politics, religion, whatever, are all fair game. 👍
+* Ensure your question hasn't already been answered.
+* Use a succinct title and description.
+* Bugs & feature requests should be opened on the relevant issue tracker.
+* Be civil and polite :)
 
-### Links
+### Resources
 
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+* [What's an AMA?](https://en.wikipedia.org/wiki/R/IAmA)
