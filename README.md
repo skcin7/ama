@@ -6,7 +6,7 @@ To ask me a question, [click here](../../issues/new)!
 
 To read all questions asked and my responses, [click here](../../issues)!
 
-Feel free to clone this repository to create your own AMA, and if you do let me know so I can be the first person to ask a question. :)
+Feel free to clone this repository to create your own AMA. If you do, let me know so I can be the first person to ask you a question.
 
 ## Guidelines
 
