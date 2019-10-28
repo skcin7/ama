@@ -2,9 +2,9 @@
 
 Git repository created for the purpose of being able to ask me questions, which I will respond to.
 
-To ask me a question, [click here](../../issues/new).
+To ask me a question, [click here](../../issues/new)!
 
-To read all questions asked and my responses, [click here](../../issues).
+To read all questions asked and my responses, [click here](../../issues)!
 
 ### Guidelines
 
